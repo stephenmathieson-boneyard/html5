@@ -1,0 +1,13 @@
+{
+  "name": "html5",
+  "repo": "stephenmathieson/html5",
+  "description": "Add styling support for HTML5 elements in legacy browsers",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
